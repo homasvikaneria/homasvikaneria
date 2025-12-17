@@ -42,5 +42,5 @@ Member of **Coding Gita**, participating in coding challenges, collaborative pro
 
 ## 📫 Contact
 - **Email:** homasvi.kaneria.cg@gmail.com  
-- **LinkedIn:** [(https://www.linkedin.com/in/homasvi-kaneria/)]  
-- **Portfolio / Website :** (https://portfolio-homasvi.vercel.app/)
+- **LinkedIn:** https://www.linkedin.com/in/homasvi-kaneria
+- **Portfolio / Website :** https://portfolio-homasvi.vercel.app
